@@ -1,0 +1,5 @@
+[lfs]
+	url = https://lfs.github.com/HannesWell/my.git.lfs.tests
+#	url = https://lfs.github.com/eclipse-platform/eclipse.platform.swt
+# TODO: use this in case origin is not the original, but e.g. upstream
+#https://lfs.github.com/HannesWell/my.git.lfs.tests
